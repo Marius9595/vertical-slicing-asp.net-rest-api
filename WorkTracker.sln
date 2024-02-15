@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTrackerRestAPI", "WorkTrackerRestAPI\WorkTrackerRestAPI.csproj", "{C9B68F8B-9128-4CA0-9A5E-61B95D9FC618}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkTrackerE2ETest", "WorkTrackerE2ETest\WorkTrackerE2ETest.csproj", "{788A47D8-CEC0-4519-BD71-5D383574C178}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C9B68F8B-9128-4CA0-9A5E-61B95D9FC618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B68F8B-9128-4CA0-9A5E-61B95D9FC618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B68F8B-9128-4CA0-9A5E-61B95D9FC618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788A47D8-CEC0-4519-BD71-5D383574C178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788A47D8-CEC0-4519-BD71-5D383574C178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788A47D8-CEC0-4519-BD71-5D383574C178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788A47D8-CEC0-4519-BD71-5D383574C178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
